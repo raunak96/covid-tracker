@@ -1,0 +1,8 @@
+/* Naming includes module to specify this css belongs to card i.e a seperate module with local scope*/
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
